@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://karhankayan.com/sitemap.xml
+Sitemap: sitemap.xml
